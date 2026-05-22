@@ -1,4 +1,4 @@
-import java.util.Arraylist;
+import java.util.ArrayList;
 public class Cart{
   //list to store products
   private ArrayList<Product> products ;
